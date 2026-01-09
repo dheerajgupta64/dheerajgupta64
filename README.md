@@ -67,14 +67,12 @@
 
 <h2 align="center">📊 Projects</h2>
 
-| Project Name                     | Description                                                                    | Link                                                                    |
-| :------------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------- |
-| **Student Marks Prediction**     | Predicts student marks using ML with personalized score-improvement tips.      | [GitHub](https://github.com/surajpathak23/Student-Marks-Prediction)     |
-| **Course Recommendation System** | Recommends personalized courses using AI similarity matching.                  | [GitHub](https://github.com/surajpathak23/Course-Recommendation-System) |
-| **Weather Dashboard Using API**  | Displays real-time weather insights using live API data.                       | [GitHub](https://github.com/surajpathak23/Weather-Dashboard-Using-API)  |
-| **Shop Sales Report PowerBi**    | Analyzes shop sales performance using interactive Power BI visuals.            | [GitHub](https://github.com/surajpathak23/Shop_Sales_Report_PowerBi)    |
-| **House Rent Prediction**        | Predictive model using Linear Regression to estimate house rent prices.        | [GitHub](https://github.com/surajpathak23/House-Rent-Prediction)        |
-| **Student Performance Analysis** | Exploratory Data Analysis (EDA) on student performance to uncover key factors. | [GitHub](https://github.com/surajpathak23/Student-Performance-Analysis) |
+| Project Name                         | Description                                                                 |
+| :----------------------------------- | :-------------------------------------------------------------------------- |
+| **Virat Kohli Power BI Dashboard**   | Power BI dashboard analyzing Virat Kohli career statistics and trends.      |
+| **EduSense – Emotion Recognition System**     | A deep learning–based system that detects facial emotions in real time using a CNN model to analyze student engagement.               |
+| **Accident Severity Prediction System**     | A machine learning–based system that predicts road accident severity using key accident factors and an interactive Streamlit interface.  |
+
 
 ---
 
